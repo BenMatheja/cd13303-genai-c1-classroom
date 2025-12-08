@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+# Python Models
+*.gz
+*-ubyte
 # Distribution / packaging
 .Python
 build/
