@@ -171,7 +171,7 @@ tornado==6.5.2
 tqdm==4.67.1
 traitlets==5.14.3
 transformers==4.55.4
-triton==3.3.1
+triton==3.2.0
 trl==0.22.2
 typeguard==4.4.4
 typer==0.19.1
